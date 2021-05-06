@@ -1,0 +1,6 @@
+framework module Pods_AkvelonTestTests {
+  umbrella header "Pods-AkvelonTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
